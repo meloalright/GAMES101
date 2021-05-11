@@ -1,71 +1,25 @@
 # GAMES101
-GAMES101: 现代计算机图形学入门 作业
 
+> Forked From [Quanwei1992/GAMES101](https://github.com/Quanwei1992/GAMES101)
 
-### 作业 1 旋转与投影
+## Quick Start
 
-![01-00](/images/01-00.png)
+```shell
+$ git clone https://github.com/meloalright/GAMES101
+$ cd GAMES101
+```
 
-### 作业 2 Triangles and Z-buffering
+```shell
+$ cd pa0
+```
 
-![02-00](/images/02-00.png)
+```shell
+$ g++ main.cpp
+$ ./a.out
+```
 
-### 作业 3 Pipeline and Shading
+## Links
 
-phong
+[GAMES101: 现代计算机图形学入门](https://sites.cs.ucsb.edu/~lingqi/teaching/games101)
 
-![phong](/images/03-00.png)
-
-normal
-
-![normal](/images/03-01.png)
-
-texture
-
-![texture](/images/03-02.png)
-
-bump
-
-![bump](/images/03-03.png)
-
-displacement
-
-![displacement](/images/03-04.png)
-
-
-### 作业 4 Bézier 曲线
-
-![](/images/04-00.png)
-
-
-### 作业5 光线追踪-光线与三角形相交
-
-![](/images/05-00.png)
-
-### 作业6 光线追踪-加速结构
-
-![](/images/06-00.png)
-
-
-
-### 作业7 光线追踪-路径追踪
-
-直接光照 1024 SPP
-
-![](/images/07-00.png)
-
-
-全局光照 1024 SPP
-
-![](/images/07-01.png)
-
-
-全局光照（优化光源采样） 
-
-1024 SPP
-
-![](/images/07-02.png)
-
-20480 SPP
-
-![](/images/07-03.png)
+[GAMES 在线课程（现代计算机图形学入门）讨论区 › 往期作业汇总帖](http://games-cn.org/forums/topic/allhw/)
